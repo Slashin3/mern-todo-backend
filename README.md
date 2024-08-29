@@ -18,18 +18,6 @@ BACKEND:
 
   mern-todo-backend/
 
-  ├── controllers/
-
-  │   └── todoController.js
-
-  ├── models/
-
-  │   └── Todo.js
-
-  ├── routes/
-
-  │   └── todoRoutes.js
-
   ├── .env
 
   ├── index.js
